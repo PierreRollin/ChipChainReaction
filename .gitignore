@@ -1,0 +1,21 @@
+# 1. Les Environnements virtuels
+env/
+venv/
+
+# 2. Le cache et les fichiers compilés Python
+__pycache__/
+*.pyc
+
+# 3. Le cache de Jupyter Notebook
+.ipynb_checkpoints/
+
+# 4. Les configurations personnelles de VSCode
+.vscode/
+
+# 5. Les Données brutes
+*.csv
+*.parquet
+*.xlsx
+
+# 6. Les secrets et clés d'API (Pour plus tard, quand tu feras ton API)
+.env
