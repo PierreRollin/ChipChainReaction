@@ -16,6 +16,7 @@ __pycache__/
 *.csv
 *.parquet
 *.xlsx
+*.npz
 
 # 6. Les secrets et clés d'API (Pour plus tard, quand tu feras ton API)
 .env
