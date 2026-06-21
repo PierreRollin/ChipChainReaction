@@ -17,6 +17,8 @@ __pycache__/
 *.parquet
 *.xlsx
 *.npz
+/data
+lstm_tuning
 
 # 6. Les secrets et clés d'API (Pour plus tard, quand tu feras ton API)
 .env
