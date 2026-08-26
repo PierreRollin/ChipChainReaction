@@ -110,12 +110,12 @@ if page == "🏠 Overview":
         with col1:
             st.metric("Max Drawdown - without LSTM", "−32.00%",
                       delta="Markowitz L/S", delta_color="off")
-            st.metric("Sharpe Ratio - without LSTM", "1.14")
+            st.metric("Sharpe Ratio - without LSTM", "1.238")
         with col2:
-            st.metric("Max Drawdown - with LSTM", "−13.69%",
-                      delta="−18.31pp reduction ✓", delta_color="normal")
-            st.metric("Sharpe Ratio - with LSTM", "1.81",
-                      delta="+0.67 ✓", delta_color="normal")
+            st.metric("Max Drawdown - with LSTM", "−17.28%",
+                      delta="14.72pp reduction ✓", delta_color="normal")
+            st.metric("Sharpe Ratio - with LSTM", "1.174",
+                      delta="-0.064", delta_color="normal")
 
         st.info(
             "**Conclusion:** In quantitative finance, complex AI (Deep Learning) "

@@ -20,8 +20,8 @@ The project combines classical econometrics, Machine Learning (HMM), Deep Learni
 
 | Metric | Without LSTM | With LSTM Shield |
 |---|---|---|
-| Max Drawdown (Markowitz L/S) | **−32.00%** | **−13.69%** |
-| Sharpe Ratio (Markowitz L/S) | 1.14 | **1.81** |
+| Max Drawdown (Markowitz L/S) | **−32.00%** | **−17.28%** |
+| Sharpe Ratio (Markowitz L/S) | 1.238 | **1.174** |
 
 The LSTM is not an alpha generator, it is a **crash shield**. In strongly trending bull markets it creates an opportunity cost. But in high-risk strategies (long/short with 30% short exposure), it becomes critical: it blocks counter-trend short positions during drawdowns, cutting losses by more than half.
 
