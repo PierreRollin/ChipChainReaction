@@ -10,7 +10,7 @@
 
 **Commodities → Foundries → Fabless Designers → Tech Integrators**
 
-The project combines classical econometrics, Machine Learning (HMM), Deep Learning (LSTM), and mathematical portfolio optimisation (Markowitz / Risk Parity) into an institutional-grade investment algorithm, distributed via a REST API and an interactive dashboard.
+The project combines classical econometrics, Machine Learning (HMM), Deep Learning (LSTM), and mathematical portfolio optimisation (Markowitz / Risk Parity) into an End-to-end quantitative research and portfolio optimisation system, distributed via a REST API and an interactive dashboard.
 
 > **Predecessor of [ChipDiffusion](https://github.com/PierreRollin/chipdiffusion)** - which extends this work into continuous time using options pricing, stochastic calculus, and volatility arbitrage.
 
